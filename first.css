@@ -5,3 +5,8 @@ body{
 h3{
     color:blue;
 }
+h1{
+    color: black;
+    padding:auto;
+    max-width: 80px;
+}
