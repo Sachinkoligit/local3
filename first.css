@@ -1,0 +1,9 @@
+body{
+    padding: 0px;
+    background-color: aliceblue;
+}
+h1{
+    color: black;
+    padding:auto;
+    max-width: 80px;
+}
